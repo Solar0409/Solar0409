@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Solar0409
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+ - Куда вы меня несете?
+ - Навстречу твоему счастью!
 
 
 <!---
